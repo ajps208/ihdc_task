@@ -1,5 +1,11 @@
 # IHDC TASK
-This project is my submission for the Front End Developer position at IHDC Building Systems Pvt Ltd. The challenge was to design a webpage using React JS  and Tailwind css based on provided images and instructions.
+
+This project is my submission for the Front End Developer position at IHDC Building Systems Pvt Ltd. The challenge was to design a webpage using React JS and Tailwind css based on provided images and instructions.
+
+# LINKS
+ - Home Page: https://ihdc-task.vercel.app
+ - Form Page: https://ihdc-task.vercel.app/form
+ - Github   : https://github.com/ajps208/ihdc_task
 
 ## UI Example
 
@@ -21,6 +27,7 @@ This project is my submission for the Front End Developer position at IHDC Build
 ## Pages
 
 1. **Home Page:**
+
    - Contain Navbar and logo and carousel
 
 2. **Form Page:**
@@ -38,5 +45,3 @@ This project is my submission for the Front End Developer position at IHDC Build
 3. Install dependencies using `npm install`.
 4. Run the application using `npm start`.
 5. Access the application in your browser at the provided URL.
-
-
