@@ -4,13 +4,15 @@ This project is my submission for the Front End Developer position at IHDC Build
 ## UI Example
 
 <div>
-   <h1>Desktop site</h1>
-    <a href="https://ibb.co/DGN81yd"><img src="https://i.ibb.co/dbSLfqZ/Screenshot-2024-02-17-092225.png" alt="Screenshot-2024-02-17-092225" border="0"></a>
-    <a href="https://ibb.co/xqBfSvZ"><img src="https://i.ibb.co/B2QrVDk/Screenshot-2024-02-17-092244.png" alt="Screenshot-2024-02-17-092244" border="0"></a>
+   <h3>Desktop site</h3>
+   <div classname="flex flex-row justify-center items-center">
+        <a href="https://ibb.co/DGN81yd"><img src="https://i.ibb.co/dbSLfqZ/Screenshot-2024-02-17-092225.png" alt="Screenshot-2024-02-17-092225" border="0"></a>
+        <a href="https://ibb.co/xqBfSvZ"><img src="https://i.ibb.co/B2QrVDk/Screenshot-2024-02-17-092244.png" alt="Screenshot-2024-02-17-092244" border="0"></a>
+   </div>
     
 </div>
 <div>
-   <h1>Mobile site</h1>
+   <h3>Mobile site</h3>
     <a href="https://ibb.co/w4Z9S7k"><img src="https://i.ibb.co/Xtfh7DQ/Screenshot-2024-02-17-092341.png" alt="Screenshot-2024-02-17-092341" border="0"></a>
     <a href="https://ibb.co/t48QsPB"><img src="https://i.ibb.co/drGj2JB/Screenshot-2024-02-17-092450.png" alt="Screenshot-2024-02-17-092450" border="0"></a>
     
