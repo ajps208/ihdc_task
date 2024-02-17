@@ -10,7 +10,7 @@ function Navbar() {
     <>
       <div>
         {/* first nav section */}
-        <div className="h-14 w-full bg-stone-300 mt-5 flex flex-row  items-center">
+        <div className="h-14 w-full bg-stone-100 mt-3 flex flex-row  items-center">
           {/* logo */}
           <img
             className=" w-24 md:w-32 md:ms-40 md:mb-3"
@@ -38,30 +38,30 @@ function Navbar() {
           <div className="flex flex-col md:flex-row md:ms-96  md:ps-48">
             <a href="#">
               {" "}
-              <p className="ps-2">Home</p>
+              <p className="font-mono">Home</p>
             </a>
             <a href="#">
               {" "}
-              <p className="ps-2">Dash Board</p>
+              <p className="md:ps-5 font-mono">DashBoard</p>
             </a>
             <a href="#">
               {" "}
-              <p className="ps-2">Products</p>
+              <p className="md:ps-5 font-mono">Products</p>
             </a>
             <a href="#">
               {" "}
-              <p className="ps-2">Transactions</p>
+              <p className="md:ps-5 font-mono">Transactions</p>
             </a>
             <a href="#">
               {" "}
-              <p className="ps-2">Journal</p>
+              <p className="md:ps-5 font-mono">Journal</p>
             </a>
           </div>
           {/* user name */}
           <div className=" md:pe-10">
             <div className="flex md:block items-center ">
               <i class="fa-solid fa-user-gear"></i>
-              <p className="ms-1">Joseph laser</p>
+              <p className="ms-1 font-mono">Joseph laser</p>
             </div>
           </div>
         </div>

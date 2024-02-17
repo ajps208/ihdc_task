@@ -8,13 +8,13 @@ function Home() {
     <>
       <Navbar />
       {/* Main Section */}
-      <div className="container mx-auto mt-10 p-5 md:flex ">
+      <div className="container mx-auto mt-4 p-5 md:flex ">
         {/* Left Section */}
         <div className="md:w-4/12 ">
           <FirstSection />
         </div>
         {/* Right Section */}
-        <div className="md:w-8/12 mt-3">
+        <div className="md:w-8/12 mt-1 me-3 ">
           <SecondSection />
         </div>
       </div>

@@ -4,3 +4,12 @@
 .container {
   overflow-x: hidden;
 }
+.premium > p {
+  font-family: cursive;
+  background: -webkit-linear-gradient(#00ff00, #0000ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h1,h2{
+  font-family: Arial, Helvetica, sans-serif;
+}

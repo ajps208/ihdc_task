@@ -11,7 +11,7 @@ function FromNav() {
     <>
       <div>
         {/* first nav section */}
-        <div className="h-14 w-full bg-stone-300 mt-5 flex flex-row  items-center">
+        <div className="h-14 w-full bg-stone-100 mt-5 flex flex-row  items-center">
           {/* logo */}
           <img
             onClick={handleClick}

@@ -8,7 +8,7 @@ function Form() {
       <FromNav></FromNav>
 
       {/* Form section */}
-      <div className="container mx-auto mt-10 p-5 md:flex ">
+      <div className="container mx-auto md:mt-5 p-5 md:flex ">
         {/* Left Section */}
         <div className="md:w-6/12">
           <div className="flex flex-col items-center justify-center">
